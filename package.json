@@ -1,0 +1,33 @@
+{
+  "name": "hexo-renderer-nunjucks",
+  "version": "1.0.0",
+  "description": "nunjucks renderer plugin for Hexo",
+  "main": "index",
+  "scripts": {
+    "eslint": "eslint .",
+    "test": "mocha test/index.js"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "repository": "ablipan/hexo-renderer-nunjucks",
+  "keywords": [
+    "hexo",
+    "nunjucks",
+    "renderer"
+  ],
+  "author": "ablipan",
+  "license": "MIT",
+  "dependencies": {
+    "nunjucks": "^2.4.1"
+  },
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "eslint": "^1.10.3",
+    "eslint-config-hexo": "^1.0.2",
+    "istanbul": "^0.4.1",
+    "jscs": "^2.7.0",
+    "jscs-preset-hexo": "^1.0.1",
+    "mocha": "^2.3.4"
+  }
+}
