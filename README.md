@@ -1,5 +1,5 @@
 # hexo-renderer-njk
-Add support for [Nunjucks](http://mozilla.github.io/nunjucks/templating.html#builtin-filters).
+Add support for [Nunjucks](http://mozilla.github.io/nunjucks).
 
 # Installation
 
