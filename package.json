@@ -1,6 +1,6 @@
 {
-  "name": "hexo-renderer-nunjucks",
-  "version": "1.0.0",
+  "name": "hexo-renderer-njk",
+  "version": "1.0.1",
   "description": "nunjucks renderer plugin for Hexo",
   "main": "index",
   "scripts": {
